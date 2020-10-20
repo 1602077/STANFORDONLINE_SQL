@@ -41,4 +41,3 @@ insert into Rating values(206, 107, 3, '2011-01-15');
 insert into Rating values(206, 106, 5, '2011-01-19');
 insert into Rating values(207, 107, 5, '2011-01-20');
 insert into Rating values(208, 104, 3, '2011-01-02');
-
